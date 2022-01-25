@@ -1,4 +1,6 @@
+# LW Agent + AWS Fargate Guide <!-- omit in toc -->
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/171a7a9a-c3cb-454d-b292-f4dc08298324.svg?orgId=680721565643)](https://app.soluble.cloud/repos/details/github.com/andrewdanglacework/fargate-ecs-guide?orgId=680721565643)  
 # LW Agent + AWS Fargate Guide <!-- omit in toc -->
 **September 2021**
 
